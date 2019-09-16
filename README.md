@@ -32,6 +32,10 @@ Rode a aplicação
 
 Você pode acessar a aplicação em http://localhost:8000
 
+## Rotas pré-definidas
+
+O json com as rotas pré-definidas pode ser consultado e alterado em database\DefaultRoutes.json
+
 
 # REST API
 
@@ -61,15 +65,15 @@ Request body - Exemplo
 
 ### Response
 
-{
-    "data": {
-        "best_route": [
-            "A",
-            "B",
-            "D"
-        ],
-        "cost": 6.25
-    }
-}
-
-    []
+    [
+        {
+        "data": {
+            "best_route": [
+                "A",
+                "B",
+                "D"
+            ],
+            "cost": 6.25
+        }
+        }
+    ]
