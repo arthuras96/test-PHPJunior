@@ -11,7 +11,7 @@ Clone o repositório
 
 Entre na pasta do projeto
 
-    cd test-php-junior
+    cd test-PHPJunior
 
 Instale todas as dependências usando o composer
 
