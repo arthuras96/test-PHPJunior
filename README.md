@@ -60,7 +60,7 @@ Request body - Exemplo
 | Sim      	        | origin            | A         |
 | Sim      	        | destiny           | D         |
 | Sim      	        | autonomy          | 10        |
-| Sim      	        | literVakue        | 2.5       |
+| Sim      	        | literValue        | 2.5       |
 
 
 ### Response
